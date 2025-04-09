@@ -31,7 +31,7 @@ Running this tool on your system drive (C:) will fill the disk completely, causi
 1. Clone the repository or download the `DiskFiller.java` file.
 
    ```bash
-   git clone https://github.com/yourusername/DiskFiller.git
+   git clone https://github.com/ysujallamichhane18/DiskFiller.git
    cd DiskFiller
    ```
 
